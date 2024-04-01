@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="switch_on">Open toggle</string>
+    <string name="switch_off">Close toggle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
